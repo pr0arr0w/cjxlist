@@ -112,6 +112,7 @@
 ||baike.com/newtop/news.html
 ||bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 ||bdstatic.com/tb/img/icon_coo_operation_
+||mbdp02.bdstatic.com^
 ||bendibao.com/weixin_
 ||bestpush.pconline.com.cn^
 ||betteredu.net/js/pop_tuiguang_
